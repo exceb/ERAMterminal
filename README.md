@@ -3,4 +3,6 @@
   <img alt="ERAMterminal" src="https://b.dexpaz.ru/logotype.png" style="display: block;
   margin:auto">
 </div>
-ERAMterminal is simple Disk Operation System. 
+ERAMterminal is simple Disk Operation System.
+## Status
+ERAMterminal is IN DEVELOPMENT, please don't use it as Operation System.
